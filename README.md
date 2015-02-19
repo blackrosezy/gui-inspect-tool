@@ -1,4 +1,4 @@
-Collection of inspect tool for Windows.
+Collection of gui inspect tool for Windows.
 * AccEvent.exe
 * AccExplorer32.exe
 * Inspect.exe
